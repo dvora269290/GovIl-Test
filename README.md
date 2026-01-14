@@ -28,7 +28,7 @@ Easy to extend with new test cases
 **Getting Started**
 **Prerequisites**
 
-Install Node.js (version 14+ recommended):
+Install Node.js:
 
 node -v
 
@@ -40,5 +40,7 @@ npm install
 **Running Tests**
 
 Launch Cypress UI:
+
+npm install cypress --save-dev
 
 npx cypress open
